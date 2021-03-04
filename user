@@ -1,0 +1,5 @@
+public static class Tset{
+  pubic static void main(String args[]){
+     Tset tset =new Tset();
+  }
+}
