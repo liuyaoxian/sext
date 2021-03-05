@@ -7,5 +7,6 @@ public static void main(String[] args) {
 	int a =20;
 	String b = "刚刚";
 	int c=60;
+	System.out.println("第一个");
 }
 }
